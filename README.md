@@ -13,9 +13,6 @@ I enjoy building things, learning new skills, and turning ideas into real projec
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritanat-chorpaga-2969282a6/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chorpagavc94@gmail.com)
 [![VGen](https://img.shields.io/badge/VGen-FF6B6B?style=for-the-badge&logoColor=white)](https://vgen.co/_raincandy_u_)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Riestal2)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAJAR94&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAJAR94&layout=compact&theme=radical)
