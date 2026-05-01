@@ -1,4 +1,4 @@
-# 「 ✦ Saika ✦ 」✰
+# ✰「 ✦ Saika ✦ 」✰
 
 **Full Stack Developer**  | **Live2D Rigger** 
 
