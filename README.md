@@ -4,7 +4,7 @@
 
 I enjoy building things 
 Sometimes I work as a Live2D rigger 
-Hoping to become a VTuber someday 🎮
+Developer by day, VTuber by night 🎮
 
 ---
 
