@@ -2,8 +2,10 @@
 
 **Full Stack Developer**  | **Live2D Rigger** 
 
-I enjoy building things 
-Sometimes I work as a Live2D rigger 
+I enjoy building things
+
+Sometimes I work as a Live2D rigger
+
 Developer by day, VTuber by night 🎮
 
 ---
