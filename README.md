@@ -18,4 +18,3 @@ Developer by day, VTuber by night 🎮
 *Commissions closed ❌*
 
 ---
-s
