@@ -1,4 +1,3 @@
-# ✰「 ✦ Mika ✦ 」✰
 
 **Full Stack Developer**  | **Live2D Rigger** 
 
